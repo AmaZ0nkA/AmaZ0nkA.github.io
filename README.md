@@ -4,6 +4,6 @@
 
 [Учебная верстка с примененением less](https://amaz0nka.github.io/less_lesson/ "Ссылка на сайт")
 
-[Учебная верстка с примененением pixel perfect] (https://amaz0nka.github.io/less_lesson/ "Ссылка на сайт")
+[Верстка формы в Pixel Perfect](https://amaz0nka.github.io/pixel_perfect/ "Ссылка на верстку")
 
 
