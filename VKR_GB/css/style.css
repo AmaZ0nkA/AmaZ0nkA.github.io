@@ -1,0 +1,192 @@
+body, body h1, body p, h2, button, li {
+margin: 0;
+padding: 0;
+font-family: arial;
+} 
+.header, .container, .footer, .black{
+width: 100%;
+}
+.header {
+background: #181818;
+}
+.grand {
+font-size: 250%;
+}
+.white {
+color: #fff;
+}
+.grey {
+color: #b0b0b0;
+}
+.slogan {
+font-size: 9pt;
+color: #fff;
+font-weight: lighter;
+}
+.black, .menu{
+background: #000;
+}
+.topline, .NewYork, .content, .copy{
+width: 1006px;
+margin: 0 auto;
+}
+.menu {
+width: 1006px;
+margin: 0;
+padding: 0;
+}
+.topline {
+padding: 0;
+overflow: hidden;
+}
+.logo {
+float: left;
+}
+.search{
+float: right;
+margin-top: 20px;
+}
+.search input {
+background-color: #323232;
+margin: 0 10px 0 0;
+border: 1px solid #838383;
+}
+input[type="submit"]{ 
+background-color: #000;
+font-weight: bold;
+}
+.NewYork {
+background-image: url(../img/NYork.jpg);
+height: 334px;
+position: relative;
+}
+.line{
+background-image: url(../img/line.png);
+background-repeat: repeat;
+height: 57px;
+position: absolute;
+bottom: 0px;
+width: 100%;
+}
+.article4{
+color:#bababa;
+padding: 10px 20px;
+font-size: 10pt;
+}
+.container , .footer {
+background-color: #e7e7e7;
+}
+.content {
+background: #fff;
+}
+.item {
+width: 85px;
+margin: 7px 0;
+text-align: center;
+border-right: 1px solid #323232;
+}
+.item1 {
+display:inline-block;
+overflow: hidden;
+margin-bottom: -5px;
+border-bottom: 1px solid transparent;
+}
+.item1:hover{
+text-decoration: underline;
+color: #000;
+background: #fff;
+border-bottom: 1px solid #000;
+}
+.menu a >div{
+color: #fff;
+}
+h2 {
+font-size: 1.8em;
+}
+.article h1:first-letter {
+color: #000;
+}
+ h2:first-letter {
+color: #000;
+}
+.article {
+padding: 10px 20px;
+font-size: 10pt;
+line-height: 1.5;
+}
+.article2 {
+padding: 10px 0;
+font-size: 10pt;
+line-height: 1.5;
+}
+.Duis {
+font-style:italic;
+padding: 10px 0 0 20px;
+}
+.darkgrey{
+color: #838383;
+}
+.images{
+border: 10px solid #e2e2e2;
+margin-right: 15px;
+}
+.second ul {
+list-style-type: none;
+margin-left: -40px;
+}
+.second ul>li {
+display: inline-block; 
+}
+.list {
+display: inline-block;
+margin-right: 20px;
+}
+.bold{
+font-weight:bold;
+}
+.right {
+padding: 0 0 0 40px;
+}
+.intable {
+border-collapse: collapse;
+margin: 10px 0 10px 0px;
+}
+.intable td {
+border: 1px solid #d5d5d5;
+padding: 10px 0 10px 10px;
+width: 289px;
+}
+th {
+background-color: #efefef;
+border: 1px solid #d5d5d5;
+text-align:left;
+padding-left: 10px;
+height: 40px;
+}
+.footer{
+font-size: 9pt;
+color: #656565;
+padding: 15px 0;
+}
+input.text[type="text"] {
+width: 200px;
+height: 25px;
+}
+select {
+width: 200px;
+height: 25px;
+}
+input[type="textarea"] {
+width: 400px;
+height: 65px;
+margin: 0 0 10px 0;
+}
+button {
+background-image: url(../img/button.jpg);
+padding: 0;
+height: 40px;
+}
+.article3{
+margin-left: 15px;
+}
+
