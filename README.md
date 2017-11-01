@@ -6,4 +6,6 @@
 
 [Верстка формы в Pixel Perfect](https://amaz0nka.github.io/pixel_perfect/ "Ссылка на верстку")
 
+[Итоговая работа после обучения в GB](https://amaz0nka.github.io/VKR_GB/ "Ссылка на верстку")
+
 
