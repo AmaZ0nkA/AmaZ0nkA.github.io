@@ -1,0 +1,112 @@
+/* Colors */
+html {
+  font-size: 10px;
+}
+nav {
+  background-color: #fdb403;
+}
+nav .navbar-nav li:hover {
+  background-color: #eeeeee;
+}
+nav .navbar-toggle .icon-bar {
+  background-color: #eeeeee;
+}
+nav a {
+  color: #fff;
+}
+nav a:hover {
+  color: #000000;
+}
+section {
+  padding: 5rem 0 7rem;
+}
+#header {
+  background-color: #eeeeee;
+  padding: 20rem 0 16rem;
+  color: #333;
+}
+#header p {
+  font-weight: bold;
+  font-size: 1.8rem;
+}
+#header span {
+  display: block;
+  font-size: 2.5rem;
+}
+.form-block {
+  width: 300px;
+  margin: 2rem auto;
+  padding: 3rem;
+  background-color: #fdb403;
+}
+.btn {
+  background-color: #eeeeee;
+  transision: ease 0.6s;
+}
+.btn:hover {
+  background-color: #d2d2d2;
+  color: #000000;
+}
+.image {
+  width: 80%;
+  display: block;
+  margin: 0 auto;
+}
+#main {
+  background-color: #fdc336;
+  color: #333;
+}
+#main h2 {
+  margin-bottom: 3rem;
+}
+#items h2 {
+  margin-bottom: 6rem;
+}
+#items .item {
+  width: 300px;
+  margin-bottom: 5rem;
+}
+#items .item p {
+  text-align: center;
+  font-size: 2.5rem;
+}
+#items .item img {
+  display: block;
+  margin: 0 auto;
+  width: 60%;
+}
+#items .item button {
+  display: block;
+  background-color: #fdb403;
+  margin: 2rem auto 0;
+}
+#items .item button:hover {
+  background-color: #cb9002;
+  color: #fff;
+}
+#footer {
+  background-color: #fdc336;
+}
+#footer .contacts {
+  float: right;
+  font-weight: bold;
+  font-size: 1.5rem;
+  padding-right: 2rem;
+}
+@media (max-width: 767px) {
+  section {
+    padding: 2rem 0;
+  }
+  #header {
+    padding: 7rem 0 3rem;
+    text-align: center;
+  }
+  #footer {
+    text-align: center;
+  }
+  #footer .contacts {
+    float: none;
+    margin-top: 1rem;
+  }
+}
+/*# sourceMappingURL=style.css.map */

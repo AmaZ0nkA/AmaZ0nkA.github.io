@@ -1,0 +1,122 @@
+/* Colors */
+@basic-color: #eeeeee;
+@btn-color: #fdb403;
+@text-light: #fff;
+@text-dark: #333;
+@size: 300px;
+
+html {
+	font-size: 10px;
+}
+nav {
+	background-color: @btn-color;
+	.navbar-nav li:hover {
+		background-color: @basic-color;
+	}
+	.navbar-toggle .icon-bar {
+		background-color: @basic-color;
+	}
+}
+
+nav a {
+	color: @text-light;
+}
+nav a:hover {
+	color: contrast(@text-light);
+}
+section{
+	padding: 5rem 0 7rem;
+}
+#header {
+	background-color: @basic-color;
+	padding: 20rem 0 16rem;
+	color: @text-dark;
+	p {
+		font-weight: bold;
+		font-size: 1.8rem;
+	}
+	span {
+		display: block;
+		font-size: 2.5rem;
+	}
+}
+.form-block {
+	width: @size;
+	margin: 2rem auto;
+	padding: 3rem;
+	background-color: @btn-color;
+}
+.btn {
+	background-color: @basic-color;
+	transision: ease 0.6s;
+	&:hover {
+		background-color: darken(@basic-color, 11%);
+		color: contrast(@text-light);
+	}
+}
+.image {
+	width: 80%;
+	display: block;
+	margin: 0 auto;
+}
+
+#main {
+  background-color: lighten(@btn-color, 10%);
+  color: @text-dark;
+  h2 {
+  	margin-bottom: 3rem;
+  }
+}
+#items {
+	h2 {
+		margin-bottom: 6rem;
+	}
+	.item {
+		width: @size;
+		margin-bottom: 5rem;
+	p{
+		text-align: center;
+
+		font-size: 2.5rem;
+	}	
+	img {
+		display: block;
+		margin: 0 auto;
+		width: 60%;
+	}
+	button {
+		display: block;
+		background-color: @btn-color;
+		margin: 2rem auto 0;
+		&:hover {
+			background-color: darken(@btn-color, 10%);
+			color: @text-light;
+			} 
+	}
+}
+}
+#footer {
+	background-color: lighten(@btn-color, 10%);
+	.contacts {
+		float: right;
+		font-weight: bold;
+		font-size: 1.5rem;
+		padding-right: 2rem;
+	}
+}
+@media (max-width: 767px) {
+	section {
+		padding: 2rem 0;
+	}
+	#header{
+		padding: 7rem 0 3rem;
+		text-align: center;
+	}
+	#footer {
+		text-align: center;
+	}
+	#footer .contacts {
+		float: none;
+		margin-top: 1rem;
+}
+}
