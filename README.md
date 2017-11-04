@@ -8,4 +8,5 @@
 
 [Итоговая работа после обучения в GB](https://amaz0nka.github.io/VKR_GB/ "Ссылка на верстку")
 
+[Интенсив "Прокачай свою верстку от Glo.academy](https://amaz0nka.github.io/upshomew/ "Ссылка на верстку")
 
