@@ -8,7 +8,9 @@
 
 [Итоговая работа после обучения в GB](https://amaz0nka.github.io/VKR_GB/ "Ссылка на верстку")
 
+[Первый сайт сына](https://amaz0nka.github.io/Zaika8/ "Ссылка на сайт")
+
 [Интенсив "Прокачай свою верстку от Glo.academy](https://amaz0nka.github.io/upshomew/ "Ссылка на верстку")
 
-[Первый сайт сына](https://amaz0nka.github.io/Zaika8/ "Ссылка на сайт")
+[Штукатурка](https://amaz0nka.github.io/shtukaturka/ "Штукатурка")
 
